@@ -1,7 +1,9 @@
 .App {
   text-align: center;
   font-family: 'Nunito', sans-serif;
+  background: #040910;
 }
+
 
 .App-logo {
   height: 40vmin;
