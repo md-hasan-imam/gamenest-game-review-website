@@ -26,10 +26,13 @@
 }
 
 .review-card .review-img{
-    width: 350px;
+    width: 400px;
 }
 
 .review-card .review-img img{
     border-radius: 5px;
 
+}
+.reviewer-name span{
+    color: #FFC641;
 }

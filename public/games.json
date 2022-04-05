@@ -2,11 +2,15 @@
     {
         "id": 1,
         "name": "HALO",
+        "reviewerName": "Leanne Graham",
+        "reviewerImg": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
         "body": "The Halo series should still take a leaf from the Spartans' book, however. It needs to be faster, with fewer UNSC scenes to slow things to a crawl. It needs to be stronger and go all-in on Kwan and John-117's fledgling relationship. It needs to be smarter. Better use of camera shots, sets, and CGI will mask low production values.",
-        "ratings": 4,
+        "ratings": 4.6,
         "img": "https://cdn.mos.cms.futurecdn.net/fQCYzb2XNGWtWFFsuZsEXF-970-80.jpg.webp"
     },
     {
+        "reviewerName": "Deckow-Crist",
+        "reviewerImg": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
         "id": 2,
         "name": "STRANGER OF PARADISE",
         "body": "Like most people, I reasonably assumed when I saw this trailer that Stranger of Paradise, an action-focused alternate universe retelling of the original Final Fantasy, was going to be very bad indeed. But after a demo offered hope that the combat might actually be quite inventive. ",
@@ -14,46 +18,36 @@
         "img": "https://cdn.wallpapersafari.com/53/74/9tZvea.jpg"
     },
     {
+        "reviewerName": "Leanne Graham",
+        "reviewerImg": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
         "id": 3,
         "name": "DESTINY 2 ",
         "body": "The Halo series should still take a leaf from the Spartans' book, however. It needs to be faster, with fewer UNSC scenes to slow things to a crawl. It needs to be stronger and go all-in on Kwan and John-117's fledgling relationship. It needs to be smarter. Better use of camera shots, sets, and CGI will mask low production values.",
-        "ratings": 3.5,
+        "ratings": 5,
         "img": "https://cdn.mos.cms.futurecdn.net/fQCYzb2XNGWtWFFsuZsEXF-970-80.jpg.webp"
     },{
+        "reviewerName": "Clementine Bauch",
+        "reviewerImg": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
         "id": 4,
-        "name": "STRANGER OF PARADISE",
+        "name": "PARADISE",
         "body": "The Halo series should still take a leaf from the Spartans' book, however. It needs to be faster, with fewer UNSC scenes to slow things to a crawl. It needs to be stronger and go all-in on Kwan and John-117's fledgling relationship. It needs to be smarter. Better use of camera shots, sets, and CGI will mask low production values.",
-        "ratings": 3.5,
+        "ratings": 4.3,
         "img": "https://cdn.mos.cms.futurecdn.net/fQCYzb2XNGWtWFFsuZsEXF-970-80.jpg.webp"
     },{
+        "reviewerName": "Patricia Lebsack",
+        "reviewerImg": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
         "id": 5,
         "name": "HALO",
         "body": "The Halo series should still take a leaf from the Spartans' book, however. It needs to be faster, with fewer UNSC scenes to slow things to a crawl. It needs to be stronger and go all-in on Kwan and John-117's fledgling relationship. It needs to be smarter. Better use of camera shots, sets, and CGI will mask low production values.",
-        "ratings": 3.5,
+        "ratings": 4.5,
         "img": "https://cdn.wallpapersafari.com/53/74/9tZvea.jpg"
     },{
+        "reviewerName": "Leanne Graham",
+        "reviewerImg": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
         "id": 6,
         "name": "HALO",
         "body": "The Halo series should still take a leaf from the Spartans' book, however. It needs to be faster, with fewer UNSC scenes to slow things to a crawl. It needs to be stronger and go all-in on Kwan and John-117's fledgling relationship. It needs to be smarter. Better use of camera shots, sets, and CGI will mask low production values.",
-        "ratings": 3.5,
-        "img": "https://cdn.mos.cms.futurecdn.net/fQCYzb2XNGWtWFFsuZsEXF-970-80.jpg.webp"
-    },{
-        "id": 7,
-        "name": "HALO",
-        "body": "The Halo series should still take a leaf from the Spartans' book, however. It needs to be faster, with fewer UNSC scenes to slow things to a crawl. It needs to be stronger and go all-in on Kwan and John-117's fledgling relationship. It needs to be smarter. Better use of camera shots, sets, and CGI will mask low production values.",
-        "ratings": 3.5,
-        "img": "https://cdn.mos.cms.futurecdn.net/fQCYzb2XNGWtWFFsuZsEXF-970-80.jpg.webp"
-    },{
-        "id": 8,
-        "name": "HALO",
-        "body": "The Halo series should still take a leaf from the Spartans' book, however. It needs to be faster, with fewer UNSC scenes to slow things to a crawl. It needs to be stronger and go all-in on Kwan and John-117's fledgling relationship. It needs to be smarter. Better use of camera shots, sets, and CGI will mask low production values.",
-        "ratings": 3.5,
-        "img": "https://cdn.mos.cms.futurecdn.net/fQCYzb2XNGWtWFFsuZsEXF-970-80.jpg.webp"
-    },{
-        "id": 9,
-        "name": "HALO",
-        "body": "The Halo series should still take a leaf from the Spartans' book, however. It needs to be faster, with fewer UNSC scenes to slow things to a crawl. It needs to be stronger and go all-in on Kwan and John-117's fledgling relationship. It needs to be smarter. Better use of camera shots, sets, and CGI will mask low production values.",
-        "ratings": 3.5,
+        "ratings": 3.6,
         "img": "https://cdn.mos.cms.futurecdn.net/fQCYzb2XNGWtWFFsuZsEXF-970-80.jpg.webp"
     }
     

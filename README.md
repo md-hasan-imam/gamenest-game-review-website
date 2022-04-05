@@ -1,10 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Porject Name
 
-GameNest-Game-Review-Website
+<h3>GameNest-Game-Review-Website</h3>
 
 # Live site link
 
@@ -12,6 +8,10 @@ GameNest-Game-Review-Website
 # Site Features
 
 <ul>
+<li>Amazing Charts</li>
 <li>Lookcreative UI design</li>
-<li>Link with React Router</li>
+<li>React Router</li>
+<li>Faster Speed</li>
+<li>Custom Hooks used</li>
+
 </ul>

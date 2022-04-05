@@ -5,11 +5,11 @@ import './Header.css';
 const Header = () => {
     return (
 
-        <div className="header-container flex justify-around py-6 items-center mx-auto">
+        <div className="header-container flex justify-around py-9  items-center mx-auto">
             <div className='text-5xl' >
                 <h2>GameNest</h2>
             </div>
-            <div className='navigation-links text-xl'>
+            <div className='navigation-links text-xl '>
                 <Link to='/home'>Home</Link>
                 <Link to='/reviews'>Reviews</Link>
                 <Link to='/dashboard'>Dashboard</Link>

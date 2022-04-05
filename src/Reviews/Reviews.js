@@ -7,7 +7,6 @@ const Reviews = () => {
     const [reviews, setreviews] =useReviews();
 
 
-
     return (
         <div className='review-container'>
             {
