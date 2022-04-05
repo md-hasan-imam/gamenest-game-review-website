@@ -1,3 +1,13 @@
 .barchart{
-    /* background: white; */
+    border-radius: 10px;
+}
+.chart{
+    border: 3px solid #FFC641;
+    border-radius: 10px;
+    margin: 10px;
+    background: white;
+}
+.chart-2{
+    padding-top:80px ;
+    padding-left: 50px;
 }
