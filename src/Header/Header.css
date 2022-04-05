@@ -1,0 +1,16 @@
+.header-container{
+    font-weight: 400;
+    background-color: rgb(4, 9, 16,1.3);
+}
+
+.header-container h2{
+    color:#FFC641 ;
+}
+
+.navigation-links a{
+    padding : 20px;
+    color: #b1b6c1;
+}
+
+
+

@@ -1,0 +1,23 @@
+.banner-container{
+    background: url(../Assets/game-1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.banner-text{
+    width: 50%;
+    color: #b1b6c1;
+    background: rgb(177, 182, 193,0.2);
+}
+
+.banner-text span{
+    color: #b1b6c1;
+}
+
+button{
+    background-color: #FFC641;
+    color: #040910;
+    margin-bottom: 30px;
+
+}
