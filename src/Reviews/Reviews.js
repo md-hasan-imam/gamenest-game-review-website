@@ -4,16 +4,16 @@ import Review from '../Review/Review';
 import './Reviews.css';
 
 const Reviews = () => {
-    const [reviews, setreviews] =useReviews();
+    const [reviews, setreviews] = useReviews();
 
 
     return (
         <div className='review-container'>
             {
-                reviews.map(review => <Review 
-                    key={review.id} 
+                reviews.map(review => <Review
+                    key={review.id}
                     review={review}
-                    ></Review>)
+                ></Review>)
             }
         </div>
     );

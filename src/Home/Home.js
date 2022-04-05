@@ -21,6 +21,7 @@ const Home = () => {
                     ></Review>)
                 }
             </div>
+            <button className='button p-3 px-10 my-8 text-xl rounded text-bold mb-24'>See All Reviews</button>
 
         </div>
     );

@@ -8,7 +8,7 @@
 .banner-text{
     width: 50%;
     color: #b1b6c1;
-    background: rgb(177, 182, 193,0.2);
+    background: #b1b6c133;
 }
 .banner-paragraph{
     background: rgb(177, 182, 193,0.6);
@@ -24,5 +24,4 @@ button{
     background-color: #FFC641;
     color: #040910;
     margin-bottom: 30px;
-
 }

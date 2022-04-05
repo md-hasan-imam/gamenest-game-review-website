@@ -1,0 +1,9 @@
+.barchart{
+    border-radius: 10px;
+}
+.chart{
+    border: 3px solid #FFC641;
+    border-radius: 10px;
+    margin: 10px;
+    background: white;
+}
